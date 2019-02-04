@@ -1,0 +1,2 @@
+create a class point which have 2 cordinate and will able to calc the two point.
+create other class shape 
